@@ -67,7 +67,7 @@ function enableButtons() {
     document.getElementById('minusButton1').disabled = false;
     document.getElementById('minusMinusButton1').disabled = false;
     document.getElementById('vergleichsButton2').disabled = false;
-    document.getElementById('plusButton2').disabled = true;
+    document.getElementById('plusButton2').disabled = false;
     document.getElementById('plusPlusButton2').disabled = false;
     document.getElementById('minusButton2').disabled = false;
     document.getElementById('minusMinusButton2').disabled = false;
